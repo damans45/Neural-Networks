@@ -1,4 +1,8 @@
 # Neural-Networks
+
+Reference -- > 
+1. Neural Networks and Deep Learning - Coursera by Andrew Ng
+2. https://towardsdatascience.com/neural-networks-from-scratch-easy-vs-hard-b26ddc2e89c7
 Neural Network from scratch using python to classify handwritten digits
 
 In this section, I will create a neural network to classify images of hand written digits.
